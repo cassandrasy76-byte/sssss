@@ -1,0 +1,12 @@
+
+{
+  "name": "FlareMap - Home Monitoring",
+  "short_name": "FlareMap",
+  "description": "Home room and sensor monitoring prototype",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080d18",
+  "theme_color": "#080d18",
+  "orientation": "portrait"
+}
